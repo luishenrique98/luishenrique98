@@ -8,7 +8,7 @@
 
 👩‍💻 Atualmente eu trabalho como Desenvolvedor back-end em Braip.
 
-🔎 Também sou curioso sobre Inteligência artificial, Filosofia, Geopolítica.
+🔎 Também sou curioso sobre Inteligência artificial, Filosofia, Geopolítica, Marketing...
 
 ✒️ Eu gosto no meu tempo livre de futebol, música, viajar;
 
