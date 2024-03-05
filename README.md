@@ -8,12 +8,11 @@
 
 👩‍💻 Atualmente eu trabalho como Desenvolvedor back-end em Braip.
 
-🔎 Também sou curioso sobre [Temas que você gosta]
+🔎 Também sou curioso sobre Inteligência artificial, Filosofia, Geopolítica.
 
 ✒️ Eu gosto no meu tempo livre de futebol, música, viajar;
 
 ### <h3> 🛠  Ferramentas e Tecnologias<h3>
-
 
 ![PHP-777BB4](https://github.com/luishenrique98/luishenrique98/assets/122538707/2c3b5801-6ac9-4e17-9985-10a24933d31f)
 ![Laravel-FF2D20](https://github.com/luishenrique98/luishenrique98/assets/122538707/d18d99de-5156-497b-8964-464ee48cfbca)
@@ -27,8 +26,7 @@
 ![JavaScript-F7DF1E](https://github.com/luishenrique98/luishenrique98/assets/122538707/324763cd-f5ff-42f7-9ad6-5f3e1d35fe22)
 ![Vue](https://github.com/luishenrique98/luishenrique98/assets/122538707/c59d0c35-81f9-428d-a88e-1d4862882ca9)     
 
-### Entre em contato comigo! 📭
-<div>
+###  📭 Entre em contato comigo!
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luishenrique98)
 [![Medium-12100E](https://github.com/luishenrique98/luishenrique98/assets/122538707/d6816185-7cc2-4d2d-84e4-bb5c71fa5679)](https://medium.com/@luishenrique98)
