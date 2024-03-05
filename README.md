@@ -10,16 +10,19 @@
 
 # <h3> 🛠  Ferramentas e Tecnologias<h3>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" height="40"/> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
-          
-          
+<p align="center">
+  <img src="https://github.com/luishenrique98/luishenrique98/assets/122538707/9d77928d-99b4-498f-9aad-b0c81eb8f939.png" width="40" height="40" />
+  <br>
+  <strong>PHP</strong>
+</p>
+
+<p align="center">
+  <img src="https://github.com/luishenrique98/luishenrique98/assets/122538707/0de6f0c9-1482-45de-8f30-1e809d6bd1f4.png" width="40" height="40" />
+  <br>
+  <strong>LARAVEL</strong>
+</p>
 
 
 
 
-
-          
-          
-          
                
