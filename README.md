@@ -1,28 +1,34 @@
 # Luis Henrique
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luishenrique98)
-
-## 🚀 Sobre mim
+### 🚀 Sobre mim
 
 👋 Olá! Sou um desenvolvedor back-end, com 25 anos de idade, formado em técnico em desenvolvimento de sistemas e com uma sólida base em contabilidade.
 
-📚 Além da minha formação acadêmica, busco constantemente aprimorar minhas habilidades através de cursos extracurriculares e acompanhando as últimas tendências tecnológicas. Acredito na importância do aprendizado contínuo para enfrentar os desafios em constante evolução do mundo da tecnologia.
+🎓 Eu estudo [ [Desenvolvimento Web Avançado com PHP, Laravel e Vue.JS](https://www.udemy.com/course/curso-completo-do-desenvolvedor-laravel) | [JavaScript Completo ES6](https://www.origamid.com/curso/javascript-completo-es6) ]
 
-# <h3> 🛠  Ferramentas e Tecnologias<h3>
+👩‍💻 Atualmente eu trabalho como Desenvolvedor back-end em Braip.
 
-<p align="center">
-  <img src="https://github.com/luishenrique98/luishenrique98/assets/122538707/9d77928d-99b4-498f-9aad-b0c81eb8f939.png" width="40" height="40" />
-  <br>
-  <strong>PHP</strong>
-</p>
+🔎 Também sou curioso sobre [Temas que você gosta]
 
-<p align="center">
-  <img src="https://github.com/luishenrique98/luishenrique98/assets/122538707/0de6f0c9-1482-45de-8f30-1e809d6bd1f4.png" width="40" height="40" />
-  <br>
-  <strong>LARAVEL</strong>
-</p>
+✒️ Eu gosto no meu tempo livre de futebol, música, viajar;
+
+### <h3> 🛠  Ferramentas e Tecnologias<h3>
 
 
+![PHP-777BB4](https://github.com/luishenrique98/luishenrique98/assets/122538707/2c3b5801-6ac9-4e17-9985-10a24933d31f)
+![Laravel-FF2D20](https://github.com/luishenrique98/luishenrique98/assets/122538707/d18d99de-5156-497b-8964-464ee48cfbca)
+![MySQL-00000F](https://github.com/luishenrique98/luishenrique98/assets/122538707/dfd01c82-3a2f-4d1e-a711-c28cdd72da90)
+![HTML5-E34F26](https://github.com/luishenrique98/luishenrique98/assets/122538707/46af89b7-f96b-423a-9382-29982386ea6e)
+![CSS3-1572B6](https://github.com/luishenrique98/luishenrique98/assets/122538707/0cd70d1e-b9d5-431c-a577-75fa165e85b7)
 
 
-               
+### 🧩 Eu estou estudando... 
+
+![JavaScript-F7DF1E](https://github.com/luishenrique98/luishenrique98/assets/122538707/324763cd-f5ff-42f7-9ad6-5f3e1d35fe22)
+![Vue](https://github.com/luishenrique98/luishenrique98/assets/122538707/c59d0c35-81f9-428d-a88e-1d4862882ca9)     
+
+### Entre em contato comigo! 📭
+<div>
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luishenrique98)
+[![Medium-12100E](https://github.com/luishenrique98/luishenrique98/assets/122538707/d6816185-7cc2-4d2d-84e4-bb5c71fa5679)](https://medium.com/@luishenrique98)
