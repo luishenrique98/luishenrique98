@@ -12,7 +12,9 @@
 
 ✒️ Eu gosto no meu tempo livre de futebol, música, viajar;
 
-### <h3> 🛠  Ferramentas e Tecnologias<h3>
+### 🛠  Eu já trabalhei com...
+
+**Tecnologias e Ferramentas**
 
 ![PHP-777BB4](https://github.com/luishenrique98/luishenrique98/assets/122538707/2c3b5801-6ac9-4e17-9985-10a24933d31f)
 ![Laravel-FF2D20](https://github.com/luishenrique98/luishenrique98/assets/122538707/d18d99de-5156-497b-8964-464ee48cfbca)
